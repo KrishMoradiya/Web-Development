@@ -1,2 +1,1 @@
-# Web-Development
-Web-Development By Angela's Course
+https://krishmoradiya.github.io/Web-Development/index.html/
