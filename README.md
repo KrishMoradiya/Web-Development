@@ -1,1 +1,1 @@
-https://krishmoradiya.github.io/Web-Development/index.html/
+https://krishmoradiya.github.io/Web-Development/HTML/index.html/
